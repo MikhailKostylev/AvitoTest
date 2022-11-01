@@ -11,7 +11,7 @@ typealias R = Resources
 
 enum Resources {
     enum Numbers {
-        static let cacheTimeInSeconds: Double = 1
+        static let cacheTimeInSeconds: Double = 3600
         static let connectionStatusTime: Double = 1
         static let rowHeight: CGFloat = 140
     }
