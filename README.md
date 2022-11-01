@@ -2,9 +2,6 @@
 Test task for an intern position in Avito 2020 🅰️✅❕✝️⭕️
 
 https://user-images.githubusercontent.com/100859587/199349670-d9145383-d1dd-494c-a141-75ebd79acd93.mp4
-![imgonline-com-ua-2to1-HRxypmSrlbgmW](https://user-images.githubusercontent.com/100859587/199351261-591fa2c5-59cd-4558-9e37-a188cf9997b5.jpg)
-![imgonline-com-ua-2to1-TmQeJH1lfC](https://user-images.githubusercontent.com/100859587/199351290-b2304f27-ca18-4684-802b-a3c24a8bb8d7.jpg)
-![imgonline-com-ua-2to1-yaAFjfxcqrFamM](https://user-images.githubusercontent.com/100859587/199351458-77a4f61e-0167-4f7b-a91e-f0102e875b7c.jpg)
 
 # Тестовое задание в компанию Avito на стажировку по направлению iOS
 
@@ -32,3 +29,7 @@ https://user-images.githubusercontent.com/100859587/199349670-d9145383-d1dd-494c
 - Код должен быть выложен в git-репозиторий на [github.com](http://github.com/) или его альтернативах с предоставленным доступом.
 
 ## 🎈 Все требования к реализации и коду выполнены 🎉
+
+![imgonline-com-ua-2to1-HRxypmSrlbgmW](https://user-images.githubusercontent.com/100859587/199351261-591fa2c5-59cd-4558-9e37-a188cf9997b5.jpg)
+![imgonline-com-ua-2to1-TmQeJH1lfC](https://user-images.githubusercontent.com/100859587/199351290-b2304f27-ca18-4684-802b-a3c24a8bb8d7.jpg)
+![imgonline-com-ua-2to1-yaAFjfxcqrFamM](https://user-images.githubusercontent.com/100859587/199351458-77a4f61e-0167-4f7b-a91e-f0102e875b7c.jpg)
